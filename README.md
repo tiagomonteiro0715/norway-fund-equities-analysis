@@ -1,0 +1,1 @@
+# norway-equities-fund-analysis
